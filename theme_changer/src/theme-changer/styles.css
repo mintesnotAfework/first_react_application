@@ -1,0 +1,33 @@
+.dark-continer{
+    background-color: black;
+    color: white;
+}
+
+.light-contianer{
+    background-color: white;
+    color: black;
+}
+
+.dark-button{
+    background-color: white;
+    color: black;
+}
+
+.light-button{
+    background-color: black;
+    color: white;
+}
+
+.contianer{
+    width: 100vw;
+    height: 100vh;
+}
+
+button{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 50%;
+    bottom: 50%;
+}
