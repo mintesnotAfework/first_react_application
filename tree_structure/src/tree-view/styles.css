@@ -1,0 +1,15 @@
+li{
+    list-style-type: none;
+    margin: 5px 0;
+    font-size: 2rem;
+}
+
+.container{
+    margin: 10px 0;
+    padding: 10px 0;
+    background-color: rgb(7, 7, 53);
+    color: white;
+    min-width: 30%;
+    max-width: 40%;
+    min-height: 95vh;
+}
